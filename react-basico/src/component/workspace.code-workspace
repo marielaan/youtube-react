@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\Desktop\\myfirtsapp"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Desktop\\FT-M2"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Downloads\\CP-M2-PRACTICE"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Downloads\\CP-M2 (1)"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Downloads\\CP-M2-10"
+		},
+		{
+			"path": "..\\..\\..\\..\\RepasoM2-main"
+		},
+		{
+			"path": "..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Desktop\\practica-redux-react"
+		},
+		{
+			"path": "..\\..\\..\\..\\Modulo-3"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
